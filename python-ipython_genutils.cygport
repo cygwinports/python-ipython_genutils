@@ -1,0 +1,11 @@
+inherit python-wheel
+
+NAME="python-ipython_genutils"
+VERSION=0.1.0
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="IPython internal utility modules"
+DESCRIPTION="Vestigial utilities from IPython.  Nobody else should use it."
+HOMEPAGE="http://ipython.org/"
+
+ARCH=noarch
