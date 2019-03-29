@@ -1,7 +1,7 @@
 inherit python-wheel
 
 NAME="python-ipython_genutils"
-VERSION=0.1.0
+VERSION=0.2.0
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="IPython internal utility modules"
